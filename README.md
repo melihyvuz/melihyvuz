@@ -1,23 +1,38 @@
 # 👋 Hello, I'm Melih Yavuz
 
 ### 🎓 Management Information Systems Student | Aspiring Data Scientist
-I am a 3rd-year MIS student with a **3.52 GPA**, ranked 1st in my department. My goal is to leverage data to solve complex business problems. Currently preparing for the **GKS Scholarship** and specializing in Data Science.
+I am a 4th-year MIS student with a **3.52 GPA**, ranked 1st in my department. Currently specializing in Data Science.
 
 - 📊 Working on: **Olist E-commerce Data Analysis** & **Financial Tracking Dashboard**
-- 🇰🇷 Language Goals: **TOPIK 5-6** (Korean) & **IELTS 6.5+** (English)
-- ⚡ Fun fact: I follow a strict protein-based diet and daily bodyweight workout routine.
+- 🌍 Languages: 
+  - **Turkish:** Native
+  - **English:** Upper-Intermediate (Preparing for IELTS 6.5+)
+  - **Korean:** Intermediate (Targeting TOPIK 5, currently active learner)
+- ⚡ Fun fact: I’m deeply interested in **Moral and Religious Philosophy**; I believe that critical thinking and ethics are the backbone of impactful data analysis.
 
 ---
 
 ### 🛠 Technologies & Tools
+
+#### 🗄 Database Management
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+#### 🐍 Data Science & Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 📊 Visualization & Reporting
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 ---
 
 ### 📌 Featured Projects
@@ -29,7 +44,7 @@ I am a 3rd-year MIS student with a **3.52 GPA**, ranked 1st in my department. My
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>## Hi there 👋
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melihyvuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihyvuz&layout=compact&theme=tokyonight"/>
+</p>
 
