@@ -36,7 +36,7 @@ I am a 4th-year MIS student with a **3.52 GPA**, ranked 1st in my department. Cu
 ---
 
 ### 📌 Featured Projects
-* 🚀 **[Olist E-commerce Analysis]((https://github.com/melihyvuz/Olist_Ecommerce_Analysis))**: Advanced SQL modeling and Python EDA on 100k+ orders.
+* 🚀 **[Olist E-commerce Analysis](https://github.com/melihyvuz/Olist_Ecommerce_Analysis)**: Advanced SQL modeling and Python EDA on 100k+ orders.
 * 💳 **[Finance Tracker Dashboard](link-buraya)**: Personal finance management app built with React.
 * 🚲 **[Bike Store Sales Analysis](https://github.com/melihyvuz/Bikestore-Data-Analysis)**: SQL-based business intelligence project focused on customer behavior.
 
